@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="MyAppCLI" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\PC\\Desktop\\PY\\PY-examples\\DjankoWebsite\\DjangoWebProject2\\DjangoWebProject2\\obj\\Release\\Package\\PackageTmp$" />
+    <parameterEntry kind="ProviderPath" scope="setAcl" match="^C:\\Users\\PC\\Desktop\\PY\\PY-examples\\DjankoWebsite\\DjangoWebProject2\\DjangoWebProject2\\obj\\Release\\Package\\PackageTmp$" />
+  </parameter>
+</parameters>
